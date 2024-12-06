@@ -73,7 +73,7 @@
         <p>Si tienes alguna consulta adicional, no dudes en <a href="mailto:deicorstudio@outlook.com.pe">contactarnos por correo electrónico</a> o <a href="https://bit.ly/ProyectosDeicor">escribirnos por WhatsApp</a>. Gracias por confiar en Deicor Studio™.</p>
     </main>
     <footer>
-        &copy; 2024 Deicor Studio™. Todos los derechos reservados.
+        &copy; 2024 Deicor Studio™. Todos los derechos reservados. Deicor Studio™ es una subsidiaria de Decorp Holding Enterprises®.
     </footer>
 </body>
 </html>
