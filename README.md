@@ -57,7 +57,7 @@
         <h1>Términos y Condiciones - Deicor Studio™</h1>
     </header>
     <main>
-        <p>Bienvenido a los Términos y Condiciones de nuestra promoción especial de Navidad y Fin de Año 2024. Por favor, lee cuidadosamente los términos antes de participar. Al contratar nuestros servios con la promoción exclusiva de diciembre 2024, aceptas lo siguiente:</p>
+        <p>Bienvenido a los Términos y Condiciones de nuestra promoción especial de Navidad y Fin de Año 2024. Por favor, lee cuidadosamente los términos antes de participar. Al contratar nuestros servios con la </strongpromoción exclusiva de diciembre 2024</strong, aceptas lo siguiente:</p>
         <h2>Términos y Condiciones:</h2>
         <ul>
             <li>La promoción aplica un <strong>10% de descuento</strong> en todos los servicios ofrecidos por Deicor Studio™, incluidos diseño de interiores, remodelaciones y cocinas integrales.</li>
